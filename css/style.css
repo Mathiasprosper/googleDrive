@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:"Googgle sans Text",Arial, Helvetica, sans-serif ;
+}
+nav{
+    padding: 10px 20px;
+    display: flex;
+    box-shadow: 0px 1px 1px 0px rgba(177, 177, 177, 0.75);
+    position: fixed;
+    top: 0;
+    background-color: white;
+    background-size: 5000px;
+    width: 100px;
+}
+.hamburger-logo{
+    padding-right: 20px;
+}
+.hamburger img{
+    width: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.hamburger img:hover{
+    width: 20px;
+    background-color: #f7f3f3;
+    padding: 10px;
+    border-radius: 5px;
+}
+.google-logo{
+    display: flex;
+    margin-bottom: 10px;
+}
+.google-logo:hover{
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+.google-logo img{
+    width: 30px;
+}
+.google-logo-text{
+    display: flex;
+}
+.google-logo-text-p1{
+    margin: 10px 0px;
+    font-size: 23px;
+    color: #5f6368;
+}
+.google-logo-text-p1:hover{
+    margin: 10px 0px;
+    font-size: 23px;
+    color: black;
+}
+.google-logo-text-p2{
+    margin: 10px 0px;
+    font-size: 23px;
+    color: #5f6368;
+}
+.google-logo-text-p2:hover{
+    margin: 10px 0px;
+    font-size: 23px;
+    border-radius: 500px;
+}
+.section-two{
+   
+    padding: 150px 10px 10px 10px;
+}
+.section-two-items{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 90px;
+}
+
+.android-img{
+    height: 500px;
+}
+.section-two-p1{
+    font-size: 60px;
+    padding-bottom: 0px 10px 10px 10px;
+  
+}
+.section-two-text{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.section-two-p2{
+    padding-bottom: 209px 10px 10px 10px;
+    font-size: 20px;
+    color: #5f6368;
+}
+.section-two-btn{
+    padding-bottom: 125px;
+    
+}
+
+.btn-1{
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 200;
+    background-size: 30px;
+    border: #1a73e8;
+    color: white;
+    background-color: #1a73e8;
+    padding: 10px 10px 10px 10px;
+}
+.btn-1:hover{
+    border-radius: 2px;
+    background-color:#145fc2 ;
+}
+.btn-2{
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 200;
+    background-size: 30px;
+    background-color: transparent;
+    border-color: thistle;
+    color: #1a73e8;
+    padding: 10px 10px 10px 10px;
+}
+.btn-2:hover{
+    border-color: #478ae0;
+}
+.explore{
+    text-align: center;
+}
+.explore-p1{
+    color: #5f6368;
+    font-weight: 500;
+}
+.section-three{
+    padding: 150px 10px 10px 10px;
+}
+.section-three-items{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 90px;
+}
+.android-img{
+    height: 500px;
+}
+.section-three-p1{
+    font-size: 60px;
+    padding-bottom: 0px 10px 10px 10px;
+  
+}
+.section-three-text{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.section-three-p2{
+    padding-bottom: 209px 10px 10px 10px;
+    font-size: 20px;
+    color: #5f6368;
+}
+.section-four{
+   display: flex;
+    padding: 150px 10px 10px 10px;
+}
+.section-four-items{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 90px;
+}
+
+.android-img{
+    height: 500px;
+}
+.section-four-p1{
+    font-size: 60px;
+    padding-bottom: 0px 10px 10px 10px;
+  
+}
+.section-four-text{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.section-four-p2{
+    padding-bottom: 209px 10px 10px 10px;
+    font-size: 20px;
+    color: #5f6368;
+}
+.section-five{
+   
+    padding: 150px 10px 10px 10px;
+}
+.section-five-items{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 90px;
+}
+
+.android-img{
+    height: 500px;
+}
+.section-five-p1{
+    font-size: 60px;
+    padding-bottom: 0px 10px 10px 10px;
+  
+}
+.section-five-text{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.section-five-p2{
+    padding-bottom: 209px 10px 10px 10px;
+    font-size: 20px;
+    color: #5f6368;
+}
+.section-six{
+   
+    padding: 150px 10px 10px 10px;
+}
+.section-six-items{
+    display: flex;
+    padding-left: 60px;
+    padding-right: 90px;
+}
+
+.android-img{
+    height: 500px;
+}
+.section-six-p1{
+    font-size: 60px;
+    padding-bottom: 0px 10px 10px 10px;
+  
+}
+.section-six-text{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.section-six-p2{
+    padding-bottom: 209px 10px 10px 10px;
+    font-size: 20px;
+    color: #5f6368;
+}
+.website-logos{
+    text-align: center;
+    background-color: rgb(248, 249, 250);
+    padding: 0px;
+}
+.website-logos-p1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 200;
+
+}
+.sale-force-logo{
+    box-shadow: #5f6368;
+    box-sizing: border-box;
+}
+.sale-force-logo-p1{
+    font-size: 50px;
+    font-weight: 300;
+}
